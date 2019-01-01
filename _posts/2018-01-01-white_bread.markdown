@@ -3,8 +3,8 @@ title: White Bread
 subtitle: Subtitle Here
 layout: default
 type: breads
-modal-id: 2
-date: 2014-07-17
+cost: 4
+modal-id: 3
 img: white_bread.jpg
 thumbnail: white_bread.jpg
 alt: image-alt
