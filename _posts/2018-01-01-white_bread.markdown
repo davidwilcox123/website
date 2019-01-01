@@ -8,6 +8,7 @@ modal-id: 3
 img: white_bread.jpg
 thumbnail: white_bread.jpg
 alt: image-alt
-description: Ingredients&#58; All-purpose flour, water, sugar, butter, salt and yeast.
+ingredients: All-purpose flour, water, sugar, butter, salt and yeast.
+description: Product Description
 
 ---

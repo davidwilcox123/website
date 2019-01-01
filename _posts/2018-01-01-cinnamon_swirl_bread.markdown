@@ -8,6 +8,7 @@ modal-id: 2
 img: cinnamon_swirl_bread.jpg
 thumbnail: cinnamon_swirl_bread.jpg
 alt: image-alt
-description: Ingredients&#58; All-purpose flour, water, whole milk, butter, sugar, eggs, cinnamon, salt and yeast.
+ingredients: All-purpose flour, water, whole milk, butter, sugar, eggs, cinnamon, salt and yeast.
+description: Product Description
 
 ---

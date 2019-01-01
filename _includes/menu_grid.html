@@ -1,15 +1,14 @@
 <!-- Portfolio Grid Section -->
-    <section id="breads" class="bg-light-gray">
+    <section id="menu" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Breads</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Menu</h2>
+                    <h3 class="section-subheading text-muted">Click on any item for more information</h3>
                 </div>
             </div>
             <div class="row">
             {% for post in site.posts %}
-            {% if post.type == "breads" %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#productModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -21,10 +20,9 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{ post.title }} ${{ post.cost}}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <!-- <p class="text-muted">{{ post.subtitle }}</p> -->
                     </div>
                 </div>
-                {% endif %}
             {% endfor %}
             </div>
         </div>
