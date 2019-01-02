@@ -8,26 +8,29 @@
                 </div>
             </div>
             <div class="row text-center">
-              <div id="eventbrite-widget-container-54253400381"></div>
 
-                <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+              <!--Start eventbrite-->
+              <div id="eventbrite-widget-container-54272681050"></div>
 
-                <script type="text/javascript">
-                  var exampleCallback = function() {
-                      console.log('Order complete!');
-                  };
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-                  window.EBWidgets.createWidget({
-                      // Required
-                      widgetType: 'checkout',
-                      eventId: '54253400381',
-                      iframeContainerId: 'eventbrite-widget-container-54253400381',
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
 
-                      // Optional
-                      iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-                      onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-                  });
-                </script>
-            </div>
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '54272681050',
+        iframeContainerId: 'eventbrite-widget-container-54272681050',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+<!--END eventbrite-->
+
         </div>
     </section>
