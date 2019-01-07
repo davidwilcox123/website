@@ -3,8 +3,8 @@ title: Pineapple Coconut Sweet Bread
 layout: default
 cost: 5
 modal-id: 13
-img: coming_soon.png
-thumbnail: coming_soon_thumb.png
+img: pineapple_coconut_sweet_bread.jpg
+thumbnail: pineapple_coconut_sweet_bread.jpg
 alt: image-alt
 ingredients:
 description:
