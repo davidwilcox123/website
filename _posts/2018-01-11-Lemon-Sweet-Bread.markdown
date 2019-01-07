@@ -3,8 +3,8 @@ title: Lemon Sweet Bread
 layout: default
 cost: 5
 modal-id: 11
-img: lemon-sweet-bread.jpg
-thumbnail: lemon-sweet-bread.jpg
+img: lemon_sweet_bread.jpg
+thumbnail: lemon_sweet_bread.jpg
 alt: image-alt
 ingredients:
 description:
