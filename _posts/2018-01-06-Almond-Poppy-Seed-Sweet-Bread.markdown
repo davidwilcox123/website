@@ -3,8 +3,8 @@ title: Almond Poppy Seed Sweet Bread
 layout: default
 cost: 5
 modal-id: 6
-img: coming_soon.png
-thumbnail: coming_soon_thumb.png
+img: Almond-Poppy-Seed-Sweet-Bread.jpg
+thumbnail: Almond-Poppy-Seed-Sweet-Bread.jpg
 alt: image-alt
 ingredients:
 description:
