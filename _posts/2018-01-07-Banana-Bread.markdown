@@ -3,8 +3,8 @@ title: Banana Bread
 layout: default
 cost: 5
 modal-id: 7
-img: coming_soon.png
-thumbnail: coming_soon_thumb.png
+img: banana-bread.jpg
+thumbnail: banana-bread.jpg
 alt: image-alt
 ingredients:
 description:
