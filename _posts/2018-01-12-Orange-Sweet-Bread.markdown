@@ -3,8 +3,8 @@ title: Orange Sweet Bread
 layout: default
 cost: 5
 modal-id: 12
-img: coming_soon.png
-thumbnail: coming_soon_thumb.png
+img: orange-sweet-bread.jpg
+thumbnail: orange-sweet-bread.jpg
 alt: image-alt
 ingredients:
 description:
