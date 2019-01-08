@@ -6,7 +6,7 @@ modal-id: 12
 img: orange_sweet_bread.jpg
 thumbnail: orange_sweet_bread.jpg
 alt: image-alt
-ingredients:
+ingredients: All-purpose flour, yogurt, sugar, eggs, orange/tangerine zest and juice, baking powder, salt, vanilla, orange extract
 description:
 
 ---
