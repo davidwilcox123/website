@@ -6,7 +6,7 @@ modal-id: 16
 img: cinnamon_rolls.jpg
 thumbnail: cinnamon_rolls.jpg
 alt: image-alt
-ingredients:
+ingredients: All-purpose flour, whole milk, eggs, butter, sugar, brown sugar, cream, cinnamon, cream cheese, vanilla, maple extract
 description:
 
 ---
