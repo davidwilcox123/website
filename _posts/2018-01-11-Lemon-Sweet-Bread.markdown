@@ -6,7 +6,7 @@ modal-id: 11
 img: lemon_sweet_bread.jpg
 thumbnail: lemon_sweet_bread.jpg
 alt: image-alt
-ingredients:
+ingredients: All-purpose flour, sugar, butter, whole milk, eggs, lemon zest and juice, baking powder, salt
 description:
 
 ---
