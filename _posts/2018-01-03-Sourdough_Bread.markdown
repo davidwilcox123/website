@@ -7,7 +7,7 @@ modal-id: 3
 img: Sourdough_Bread.jpg
 thumbnail: Sourdough_Bread.jpg
 alt: image-alt
-ingredients:
+ingredients: All Purpose Flour, Water, Sourdough Starter (flour and water), Salt
 description:
 
 ---
