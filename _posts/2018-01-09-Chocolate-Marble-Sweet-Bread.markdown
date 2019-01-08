@@ -3,8 +3,8 @@ title: Chocolate Marble Sweet Bread
 layout: default
 cost: 5
 modal-id: 9
-img: coming_soon.png
-thumbnail: coming_soon_thumb.png
+img: Chocolate-Marble-Sweet-Bread.JPG
+thumbnail: Chocolate-Marble-Sweet-Bread.JPG
 alt: image-alt
 ingredients:
 description:
