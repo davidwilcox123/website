@@ -6,7 +6,7 @@ modal-id: 6
 img: almond_poppy_sweet_bread.jpg
 thumbnail: almond_poppy_sweet_bread.jpg
 alt: image-alt
-ingredients:
+ingredients: All-purpose flour, sugar, butter, whole milk, eggs, salt, baking powder, vanilla, almond flavor
 description:
 
 ---
