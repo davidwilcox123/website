@@ -6,7 +6,7 @@ modal-id: 13
 img: pineapple_coconut_sweet_bread.jpg
 thumbnail: pineapple_coconut_sweet_bread.jpg
 alt: image-alt
-ingredients: All-purpose flour, sugar, yogurt, pineapple, eggs, baking soda, salt, vanilla, coconut, coconut extract
+ingredients: All-purpose flour, sugar, yogurt, pineapple, eggs, baking soda, salt, vanilla, coconut, pineapple extract, coconut extract
 description:
 
 ---
