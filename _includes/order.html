@@ -10,7 +10,11 @@
             <div class="row text-center">
 
               <!--Start eventbrite-->
-<div id="eventbrite-widget-container-57668979470"></div>
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.com/e/all-loaves-5-each-reserve-for-saturday-delivery-030919-tickets-58366901975" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-58366901975" type="button">Buy Tickets</button>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -20,14 +24,11 @@
     };
 
     window.EBWidgets.createWidget({
-        // Required
         widgetType: 'checkout',
-        eventId: '57668979470',
-        iframeContainerId: 'eventbrite-widget-container-57668979470',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        eventId: '58366901975',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-58366901975',
+        onOrderComplete: exampleCallback
     });
 </script>
 <!--END eventbrite-->
